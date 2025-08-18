@@ -6,9 +6,8 @@ Atualmente, tenho trabalhado em projetos acadêmicos e pessoais que envolvem **g
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente desenvolvendo sistemas de **gestão acadêmica** e explorando integrações com **Camunda BPM**  
-- 🌱 Aprimorando minhas habilidades em **Django, ASP.NET Core, Java e automações com Python**  
+- 🌱 Aprimorando minhas habilidades em **Django, ASP.NET Core, Java e automação**  
 - 💬 Gosto de conversar sobre **boas práticas de código, arquitetura de software, e como simplificar tarefas repetitivas com automação**  
-- ⚡ Curiosidade: já trabalhei em projetos que vão desde **chatbots no Discord (Oráculo do LEDS)** até **labirintos visuais em Java Swing**  
 
 ### 🛠️ Tecnologias & Ferramentas
 
